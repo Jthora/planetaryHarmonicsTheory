@@ -32,7 +32,7 @@ The evolution of the emotional state is governed by a Hermitian operator $ \hat{
 ### Hamiltonian Construction
 The Hamiltonian is:
 
-$$\hat{H} = \sum_{j=1}^6 F_j \hat{P}_j + \sum_{k=1}^3 M_k \hat{Q}_k + \sum_{l=1}^4 E_l \hat{R}_l$$
+$$\hat{H} = \sum_{j=1}^6 F_j \hat{P}\_j + \sum_{k=1}^3 M_k \hat{Q}\_k + \sum_{l=1}^4 E_l \hat{R}\_l$$
 
 where:
 - $F_j$: Weight of the $j$-th Cosmic Force (Core, Void, Order, Chaos, Alpha, Omega).
