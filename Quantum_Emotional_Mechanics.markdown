@@ -58,14 +58,14 @@ The three modalities (Cardinal, Fixed, Mutable) modulate the emotional state’s
 ### Cardinal Triangle Wave Operator
 The Cardinal modality introduces sharp transitions:
 
-$$\hat{Q}_{\text{Cardinal}} |\psi\rangle = \sum_{n=0}^{\infty} \frac{(-1)^n}{2n+1} \sin\left( (2n+1) \omega t \sqrt{3} \right) |\psi\rangle$$
+$$\hat{Q}\_{\text{Cardinal}} |\psi\rangle = \sum_{n=0}^{\infty} \frac{(-1)^n}{2n+1} \sin\left( (2n+1) \omega t \sqrt{3} \right) |\psi\rangle$$
 
 Frequency multiplier: $\sqrt{3} \approx 1.732$.
 
 ### Fixed Square Wave Operator
 The Fixed modality sustains states:
 
-$$\hat{Q}_{\text{Fixed}} |\psi\rangle = \sum_{n=0}^{\infty} \frac{1}{2n+1} \sin\left( (2n+1) \omega t \cdot 2 \right) |\psi\rangle$$
+$$\hat{Q}\_{\text{Fixed}} |\psi\rangle = \sum_{n=0}^{\infty} \frac{1}{2n+1} \sin\left( (2n+1) \omega t \cdot 2 \right) |\psi\rangle$$
 
 Frequency multiplier: 2.0.
 
