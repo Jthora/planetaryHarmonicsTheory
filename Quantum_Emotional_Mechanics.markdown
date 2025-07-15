@@ -12,7 +12,7 @@ The emotional state is a superposition of basis states:
 $$|\psi\rangle = \sum_{i=1}^{15} \alpha_i |D_i\rangle$$
 
 where:
-- $ |D_i\rangle $: Basis state for the $ i $-th dimension (e.g., Core-Void, Order-Chaos).
+- $|D_i\rangle$: Basis state for the $i$-th dimension (e.g., Core-Void, Order-Chaos).
 - $ \alpha_i $: Complex amplitude for the $ i $-th dimension, representing the contribution to the emotional state.
 - $ \sum_{i=1}^{15} |\alpha_i|^2 = 1 $: Normalization condition for a valid quantum-like state.
 
