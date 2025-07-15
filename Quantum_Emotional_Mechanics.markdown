@@ -150,7 +150,7 @@ $$O = \langle \psi | \hat{O} | \psi \rangle$$
 
 The *Emotional Intensity* operator is:
 
-$$\hat{O}_{\text{intensity}} = \sum_{i=1}^{15} c_i |D_i\rangle \langle D_i|$$
+$$\hat{O}\_{\text{intensity}} = \sum_{i=1}^{15} c_i |D_i\rangle \langle D_i|$$
 
 where $c_i$ is the intensity coefficient for dimension $i$.
 
