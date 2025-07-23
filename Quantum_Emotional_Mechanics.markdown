@@ -78,7 +78,7 @@ Frequency multiplier: 1.0 (fundamental).
 
 ## Cosmic Force Interaction Matrix
 
-Interactions between Cosmic Forces are represented by a 6×6 matrix $ \mathbf{F} $:
+Interactions between Cosmic Forces are represented by a 6×6 matrix $\mathbf{F}$:
 
 $$\mathbf{F} = \begin{bmatrix}
 F_{\text{Core-Core}} & F_{\text{Core-Void}} & \cdots & F_{\text{Core-Omega}} \\
