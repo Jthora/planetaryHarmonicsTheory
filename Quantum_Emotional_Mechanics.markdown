@@ -95,7 +95,7 @@ and $\delta_{ij}$ is the Kronecker delta.
 
 ## Emotional Resonance Probability
 
-The probability of an emotional state collapsing into a basis state $ |D_i\rangle $ is:
+The probability of an emotional state collapsing into a basis state $|D_i\rangle$ is:
 
 $$P_i = |\langle D_i | \psi \rangle|^2 = |\alpha_i|^2$$
 
